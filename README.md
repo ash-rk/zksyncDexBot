@@ -1,7 +1,7 @@
-# SproutStarter
+# zkSyncDexBot
 
 ## Overview
-SproutStarter is a Python automation script designed to facilitate trading operations. It serves as the orchestrator for various trading-related tasks, including establishing a VPN connection, launching and interacting with a web browser, handling a wallet, retrieving and managing balances, and executing trades using the DefiDex class.
+zkSyncDexBot is a Python automation script designed to facilitate trading operations. It serves as the orchestrator for various trading-related tasks, including establishing a VPN connection, launching and interacting with a web browser, handling a wallet, retrieving and managing balances, and executing trades using the DefiDex class.
 
 This has been designed to use on a 16-inch Macbook Pro (Uses resolution 1728 x 1117)
 
